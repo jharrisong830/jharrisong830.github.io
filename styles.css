@@ -5,4 +5,15 @@ body {
 h1 {
     color:rgb(17, 147, 104);
     font-family: "Ubuntu", sans-serif;
+    text-align: center;
+}
+img {
+    max-width: 50%;
+    height: auto;
+    padding: 25px;
+}
+a {
+    display: block;
+    padding: 8px;
+    background-color: rgb(17, 147, 104);
 }
