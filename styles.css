@@ -9,6 +9,9 @@ h1 {
     font-family: "Ubuntu", sans-serif;
     text-align: center;
 }
+p {
+    text-align: left;
+}
 img {
     max-width: 50%;
     height: auto;
